@@ -172,7 +172,7 @@ FT-WW/
 │   ├── components/
 │   ├── lib/api.ts               # Fetch helper + token storage
 │   └── lib/wishlist.ts          # localStorage wishlist
-└── docs/                        # Requirements, DB diagram, API spec
+└── 
 ```
 
 ---
